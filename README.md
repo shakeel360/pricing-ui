@@ -1,2 +1,4 @@
-# pricing-ui
-Pricing UI created with chakra in nextjs
+Checkout the final working on this link.
+
+https://pricing-ui-theta.vercel.app/
+
